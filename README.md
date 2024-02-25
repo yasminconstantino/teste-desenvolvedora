@@ -1,4 +1,4 @@
-# Solução dos Exercicios para vaga de Estágio como Desenvolvedora <img src="icons/test.png">
+# Solução exercicios vaga de Estágio como Desenvolvedora <img src="icons/test.png">
 <b>Linguagens utilizadas para resolver o desafio:</b>
 <p>
  <img style="width:10%" src="icons/javascript (1).png">
